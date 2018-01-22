@@ -1,6 +1,6 @@
 # taskage
 
-> Task list made with VueJS
+> To-do app made with VueJS.
 
 ## Build Setup
 
